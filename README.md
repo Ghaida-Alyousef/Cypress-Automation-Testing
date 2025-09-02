@@ -1,13 +1,13 @@
 # 🌐 Cypress Automation Testing Project 🚀
 
 This project was developed as part of the **Software Testing & Automation Bootcamp** at **Tuwaiq Academy**.  
-It demonstrates hands-on practice in **End-to-End (E2E) Testing** using **Cypress** with real-world test scenarios.
+It demonstrates hands-on practice in **End-to-End (E2E) Testing** using **Cypress** with real-world test scenario
 
 ---
 
 ## ✨ Overview
 The project focuses on automating test flows for the **OrangeHRM system**, including login, employee management, and regression testing.  
-It highlights my ability to design, execute, and document automated test cases with professional reporting.
+It highlights my ability to design, execute, and document automated test cases with professional reporting
 
 ---
 
@@ -60,6 +60,6 @@ Screenshots of failures are available in cypress/screenshots/
 
 📌 About
 
-This project reflects my practical journey in Software Quality Assurance & Automation.
-I’m looking forward to applying these skills in real-world projects and continuing to grow in the testing field.
+This project reflects my practical journey in Software Quality Assurance & Automation
+I’m looking forward to applying these skills in real-world projects and continuing to grow in the testing field
 
